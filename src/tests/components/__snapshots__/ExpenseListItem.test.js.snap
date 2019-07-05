@@ -15,7 +15,7 @@ exports[`Should render ExpenseListItem 1`] = `
     />
     19.95
     -
-    1st January, 1970
+    31st December, 1969
   </p>
 </div>
 `;
